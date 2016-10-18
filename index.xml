@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weavely</title>
-    <link>https://weavely.github.io/blog/index.xml</link>
+    <link>http://blog.weavely.net/index.xml</link>
     <description>Recent content on Weavely</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Weavely, Inc. All rights reserved</copyright>
     <lastBuildDate>Tue, 18 Oct 2016 12:00:42 -0700</lastBuildDate>
-    <atom:link href="https://weavely.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.weavely.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello universe</title>
-      <link>https://weavely.github.io/blog/2016/10/18/hello-universe</link>
+      <link>http://blog.weavely.net/2016/10/18/hello-universe</link>
       <pubDate>Tue, 18 Oct 2016 12:00:42 -0700</pubDate>
       
-      <guid>https://weavely.github.io/blog/2016/10/18/hello-universe</guid>
+      <guid>http://blog.weavely.net/2016/10/18/hello-universe</guid>
       <description>&lt;p&gt;Welcome to our new blog home. We are very excited to start logging our journey both from technical and business perspective. Stay tuned.&lt;/p&gt;
 </description>
     </item>
